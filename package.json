@@ -1,0 +1,42 @@
+{
+  "name": "taiga-bot",
+  "version": "1.4.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "booru": "^2.2.3",
+    "cpu-stat": "^2.0.1",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "discord-giveaways": "^3.2.3",
+    "erela.js": "^1.1.7",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.2",
+    "figlet": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "horn-cmdhandler": "^1.0.1",
+    "install": "^0.13.0",
+    "jimp": "^0.12.1",
+    "lowdb": "^1.0.0",
+    "mal-scraper": "^2.6.9",
+    "merge-options": "^2.0.0",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.4",
+    "num-parse": "^1.0.1",
+    "opusscript": "^0.0.7",
+    "os": "^0.1.1",
+    "pornsearch": "^2.4.3",
+    "random-number": "^0.0.9",
+    "random-puppy": "^1.1.0",
+    "superagent": "^5.2.2",
+    "url": "^0.11.0",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dacfield2",
+  "license": "ISC"
+}
